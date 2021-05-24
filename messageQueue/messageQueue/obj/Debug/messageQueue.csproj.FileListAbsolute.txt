@@ -1,0 +1,20 @@
+F:\EDUCACION\DiseñoWeb2021\GitHub\messageQueue\messageQueue\bin\Debug\messageQueue.exe.config
+F:\EDUCACION\DiseñoWeb2021\GitHub\messageQueue\messageQueue\bin\Debug\messageQueue.exe
+F:\EDUCACION\DiseñoWeb2021\GitHub\messageQueue\messageQueue\bin\Debug\messageQueue.pdb
+F:\EDUCACION\DiseñoWeb2021\GitHub\messageQueue\messageQueue\obj\Debug\messageQueue.csprojAssemblyReference.cache
+F:\EDUCACION\DiseñoWeb2021\GitHub\messageQueue\messageQueue\obj\Debug\messageQueue.Form1.resources
+F:\EDUCACION\DiseñoWeb2021\GitHub\messageQueue\messageQueue\obj\Debug\messageQueue.Properties.Resources.resources
+F:\EDUCACION\DiseñoWeb2021\GitHub\messageQueue\messageQueue\obj\Debug\messageQueue.csproj.GenerateResource.cache
+F:\EDUCACION\DiseñoWeb2021\GitHub\messageQueue\messageQueue\obj\Debug\messageQueue.csproj.CoreCompileInputs.cache
+F:\EDUCACION\DiseñoWeb2021\GitHub\messageQueue\messageQueue\obj\Debug\messageQueue.exe
+F:\EDUCACION\DiseñoWeb2021\GitHub\messageQueue\messageQueue\obj\Debug\messageQueue.pdb
+F:\EDUCACION\DiseñoWeb2021\GitHub\timer con c#\messageQueue\messageQueue\bin\Debug\messageQueue.exe.config
+F:\EDUCACION\DiseñoWeb2021\GitHub\timer con c#\messageQueue\messageQueue\bin\Debug\messageQueue.exe
+F:\EDUCACION\DiseñoWeb2021\GitHub\timer con c#\messageQueue\messageQueue\bin\Debug\messageQueue.pdb
+F:\EDUCACION\DiseñoWeb2021\GitHub\timer con c#\messageQueue\messageQueue\obj\Debug\messageQueue.csprojAssemblyReference.cache
+F:\EDUCACION\DiseñoWeb2021\GitHub\timer con c#\messageQueue\messageQueue\obj\Debug\messageQueue.Form1.resources
+F:\EDUCACION\DiseñoWeb2021\GitHub\timer con c#\messageQueue\messageQueue\obj\Debug\messageQueue.Properties.Resources.resources
+F:\EDUCACION\DiseñoWeb2021\GitHub\timer con c#\messageQueue\messageQueue\obj\Debug\messageQueue.csproj.GenerateResource.cache
+F:\EDUCACION\DiseñoWeb2021\GitHub\timer con c#\messageQueue\messageQueue\obj\Debug\messageQueue.csproj.CoreCompileInputs.cache
+F:\EDUCACION\DiseñoWeb2021\GitHub\timer con c#\messageQueue\messageQueue\obj\Debug\messageQueue.exe
+F:\EDUCACION\DiseñoWeb2021\GitHub\timer con c#\messageQueue\messageQueue\obj\Debug\messageQueue.pdb
